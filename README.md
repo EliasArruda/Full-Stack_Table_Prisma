@@ -14,25 +14,171 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# Avisos
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<h2
+style='text-align: center;'>
+SEMPRE USAR UMA DATABASE VAZIA , 
+PARA NÃO OCORRER CONFLITOS , E SUAS TABELAS
+SEREM <strong> APAGADAS </strong>
+</h2>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<br> <br>
 
-## Learn More
+<h2
+style='text-align: center;'>
+O TEMPO DE CRIAÇÃO DA 
+TABELA VAI DEPENDER DE QUAL BANCO DE DADOS , 
+VOCÊ ESTIVER USANDO
+</h2>
 
-To learn more about Next.js, take a look at the following resources:
+<br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# About
+<br>
+<h2
+style='text-align: center;'>
+Isso e a Nossa Home
+</h2>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p
+style='
+display: block;
+position: relative;
+text-align: center;
+position: relative;
+margin-bottom: 1rem;'>
+    A Home tem como objetivo , você ter a oportunidade de escolher
+    qual banco de dados você irár usar , para o melhor aproveito
+    da aplicação
+</p>
 
-## Deploy on Vercel
+<img 
+src="./src/IMG/Screenshots/Screen_Home.png" 
+alt="erro Home screen">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<h2
+style='text-align: center;'>
+SUA URL
+</h2>
+
+<p
+style='
+display: block; 
+position: relative;
+margin-bottom: 1rem;'>
+    Aqui tem como objetivo você fazer a conexão com
+    o seu banco de dados , passando a URL corretamente,
+    para não ouver nenhum tipo de problema na aplicação
+</p>
+
+<img 
+src="./src/IMG/Screenshots/Screen_Url.png" 
+alt="erro URL screen">
+
+
+<h2
+style='text-align: center;'>
+Criando a Tabela
+</h2>
+
+<p
+style='
+display: block; 
+position: relative;
+margin-bottom: 1rem;'>
+    Aqui você irar escolher o nome da sua tabela,
+    e depois os conteudos que irár ter nela , seguindo
+    esse procedimento não haverar erro
+</p>
+
+
+<img 
+src="./src/IMG/Screenshots/Screen_Create_Schema.png" 
+alt="erro URL screen">
+
+
+<h2
+style='text-align: center;'>
+Confirmação Banco de Dados
+</h2>
+
+<p
+style='
+display: block; 
+position: relative;
+margin-bottom: 1rem;'>
+    Aqui pedimos a confirmação do usuario , para continuar o procedimento de criação da tabela
+</p>
+
+<img 
+src="./src/IMG/Screenshots/Screen_Confirm_Schema.png" 
+alt="erro URL screen">
+
+
+<h2
+style='text-align: center;'>
+Criação da Tabela
+</h2>
+
+<p
+style='
+display: block; 
+position: relative;
+margin-bottom: 1rem;'>
+    Passando por aqui ao apertar o 
+    botão ,  ele irár te enviar para a
+    criação do conteudo sobre sua tabela
+    criação dos conteudos
+    da tabela
+</p>
+
+<img 
+src="./src/IMG/Screenshots/Screen_Content.png" 
+alt="erro URL screen">
+
+
+
+<h2
+style='text-align: center;'>
+Finalizando
+</h2>
+
+<p
+style='
+display: block; 
+position: relative;
+margin-bottom: 1rem;'>
+    Aqui você e livre para adicionar o 
+    conteudo da sua tabela,
+</p>
+
+<img 
+src="./src/IMG/Screenshots/Screen_Create_Content.png" 
+alt="erro URL screen">
+
+
+
+<li>Primeiro Coloque o nome da Tabela Criada</li>
+<br>
+
+<li>
+Depois coloque o conteudo que vai 
+conter ela, 
+</li>
+<br>
+
+<h2>
+Exemplo: 
+<br>
+
+<h3>User</h3>
+<h3>Nome: "Joao"</h3>
+
+</h2>
+
+
+
